@@ -1,0 +1,1 @@
+console.log("BAKA Junk Removal site loaded");
